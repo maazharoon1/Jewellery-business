@@ -1,0 +1,6 @@
+{
+  "name": "Fine Jewelry Studio",
+  "description": "A refined, minimal, and timeless jewelry website with bespoke services, editorial gallery, and consultation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
